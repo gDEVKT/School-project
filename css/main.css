@@ -1,7 +1,17 @@
 body{
 	overflow:hidden;
 }
-img{
+
+#logo{
+	z-index:1;
+	width:450px;
+	height:120px;
+	margin-top:20px;
+	margin-left:-1%;
+	position:absolute;
+}
+
+#front-bg{
 	width:1720px;
 	height:1440px;
 	margin-left:-7%;
